@@ -1,0 +1,10 @@
+{
+  "name": "CommandFlow",
+  "description": "",
+  "main": "./index.js",
+  "author": "ChakraDev",
+  "version": "0.0.1",
+  "dependencies": {
+    "zombie": "^5.0.7"
+  }
+}
